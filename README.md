@@ -1,5 +1,5 @@
 # fancy-checkboxes-radios
-Tired of styling the same checkboxes and radios? Me too... This is a mixin starting point for fancy checkbox and radio inputs.
+Tired of styling the same checkboxes and radios? Me too... This is a mixin starting point for fancy checkbox and radio inputs. See it in action [on codepen](https://codepen.io/erwstout/pen/xrNEBJ?editors=1100)
 
 ## Usage
 ### `@include f1-radio($size, $background, $border);`
